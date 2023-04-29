@@ -38,7 +38,7 @@ console.log('2c)',greet2c())
 const greet3 = (salute, name = 'Candy') => {
   console.log('3)', `${salute} ${name}`)
 }
-greet3('Hi', )
+greet3('Hi' )
 
 // Question 4
 const checkInput = (cb,...words) => {
